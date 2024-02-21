@@ -5,5 +5,5 @@ resources:
 - vas-deploy.yaml
 - vas-ing.yaml
 images:
-- name: leesh7741/vas
+- name: leesh950216/vas
   newTag: 0.0.1
