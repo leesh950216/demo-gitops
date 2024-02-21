@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
         - name: vas
-          image: leesh7741/vas
+          image: leesh950216/vas
           ports:
           - name: http
             containerPort: 8080
